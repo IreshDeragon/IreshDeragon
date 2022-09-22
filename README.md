@@ -3,7 +3,7 @@
 
 <!-- - 💻 I’m currently working on [Data Quality](https://www.informatica.com/fr/)-->
 
-- 🌱 I’m currently learning **IA & Big Data**
+<!--- 🌱 I’m currently learning **IA & Big Data** -->
 
 - 📫 How to reach me **nicolas.cortial810@gmail.com**
 <!--
